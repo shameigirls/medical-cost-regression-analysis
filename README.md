@@ -1,4 +1,4 @@
-# medical-cost-regression-analysis
+# Medical-cost-regression-analysis
 The dataset, originally from US Census Bureau, contains individual medical costs of 1338 persons and their personal features. 
 To make their own profits, the insurance company (insurer) must collect more premiums than the amount paid to the insured person. For this, the insurance company invests a lot of time and money in creating a model that accurately predicts health care costs.
 
